@@ -11,7 +11,7 @@
   "users":[ {
     "id":1,
     "name": "email",
-    "username:"name",
+    "username":"test",
     "address.street":"1234 Test st",
     "website":"test",
     "company.name":"Test"
