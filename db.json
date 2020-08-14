@@ -8,8 +8,12 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "users": {
+  "users":[ {
     "id":1,
-    "name": "email"
-  }
+    "name": "email",
+    "username:"name",
+    "address.street":"1234 Test st",
+    "website":"test",
+    "company.name":"Test"
+  }]
 }
